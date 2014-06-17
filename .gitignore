@@ -1,0 +1,2 @@
+# Ignore all folders and files unter galleries. This the data folder.
+galleries/**/* 
